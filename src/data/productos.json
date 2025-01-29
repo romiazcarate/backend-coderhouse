@@ -1,0 +1,5 @@
+[
+    { "id": 1, "title": "Juego 1", "price": 100 },
+    { "id": 2, "title": "Juego 2", "price": 150 },
+    { "id": 3, "title": "Juego 3", "price": 200 }
+]
